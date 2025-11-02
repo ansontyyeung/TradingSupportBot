@@ -13,27 +13,27 @@ AI-powered chatbot application for stock trading support that can analyze CSV lo
 
 ## 📁 Project Structure
 
-chatbot-app/
-├── frontend/                 # React TypeScript frontend
-│   ├── src/
-│   │   ├── App.tsx          # Main chat component
-│   │   ├── main.tsx         # React entry point
-│   │   └── index.css        # Styling
-│   ├── package.json
-│   ├── vite.config.js
-│   └── tailwind.config.js
-├── backend/                  # FastAPI Python backend
-│   ├── app.py               # FastAPI server
-│   ├── ai_model.py          # AI model handling
-│   ├── csv_processor.py     # CSV log processing
-│   ├── database.py          # Database models
-│   ├── data/                # CSV log files
-│   │   ├── ClientExecution_20251025.csv
-│   │   ├── ClientExecution_20251026.csv
-│   │   └── ClientExecution_20251027.csv
-│   ├── requirements.txt
-│   └── .env
-└── README.md
+chatbot-app/<br>
+├── frontend/                 # React TypeScript frontend<br>
+│   ├── src/<br>
+│   │   ├── App.tsx          # Main chat component<br>
+│   │   ├── main.tsx         # React entry point<br>
+│   │   └── index.css        # Styling<br>
+│   ├── package.json<br>
+│   ├── vite.config.js<br>
+│   └── tailwind.config.js<br>
+├── backend/                  # FastAPI Python backend<br>
+│   ├── app.py               # FastAPI server<br>
+│   ├── ai_model.py          # AI model handling<br>
+│   ├── csv_processor.py     # CSV log processing<br>
+│   ├── database.py          # Database models<br>
+│   ├── data/                # CSV log files<br>
+│   │   ├── ClientExecution_20251025.csv<br>
+│   │   ├── ClientExecution_20251026.csv<br>
+│   │   └── ClientExecution_20251027.csv<br>
+│   ├── requirements.txt<br>
+│   └── .env<br>
+└── README.md<br>
 
 ## 🛠️ Setup Instructions
 
